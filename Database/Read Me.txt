@@ -1,0 +1,14 @@
+Task 9 & 10,16,16(extra):
+	Admin Credentials:
+		email - admin@gmail.com
+		password - admin123
+	Database:postgreSQL
+		database-name:examPortal
+
+Task 11,12 &13:
+	Admin Credentials:
+		email - admin@gmail.com
+		password - admin123
+	Database:postgreSQL
+		database-name:consoleapp
+		
